@@ -13,10 +13,10 @@ import AddMemberModal, { type NewMember } from "@/components/home/add-member-mod
 const INITIAL_MEMBERS = [
   {
     id: 1,
-    name: "Ahmed Khan",
-    role: "Father",
-    avatar: "/man.jpg",
-    phone: "01712345678",
+    name: "khorshed alom",
+    role: "family header",
+    avatar: "/1id.jpg",
+    phone: "01701727782",
     documents: {
       birth: "/generic-birth-certificate.png",
       nid: "/nid-card.jpg",
@@ -29,10 +29,10 @@ const INITIAL_MEMBERS = [
   },
   {
     id: 2,
-    name: "Fatima Khan",
-    role: "Mother",
-    avatar: "/diverse-woman-portrait.png",
-    phone: "01798765432",
+    name: "Rohima Begum",
+    role: "Mother of family",
+    avatar: "/2id.png",
+    phone: "01895276747",
     documents: {
       birth: null,
       nid: "/nid-card.jpg",
@@ -45,10 +45,10 @@ const INITIAL_MEMBERS = [
   },
   {
     id: 3,
-    name: "Karim Khan",
-    role: "Brother",
-    avatar: "/young-man.jpg",
-    phone: "01823456789",
+    name: "MD:Eyashin",
+    role: "1st son",
+    avatar: "/3id.jpg",
+    phone: "+966557523911",
     documents: {
       birth: "/generic-birth-certificate.png",
       nid: "/nid-card.jpg",
@@ -61,10 +61,10 @@ const INITIAL_MEMBERS = [
   },
   {
     id: 4,
-    name: "Aisha Khan",
-    role: "Sister",
-    avatar: "/young-woman.jpg",
-    phone: "01934567890",
+    name: "MD:Bellal",
+    role: "2nd son",
+    avatar: "/4id.jpg",
+    phone: "+971552592171",
     documents: {
       birth: "/generic-birth-certificate.png",
       nid: null,
@@ -77,10 +77,10 @@ const INITIAL_MEMBERS = [
   },
   {
     id: 5,
-    name: "Habib Khan",
-    role: "Uncle",
-    avatar: "/elder-man.jpg",
-    phone: "01645678901",
+    name: "MD:Shahjahan Saju",
+    role: "3rd son",
+    avatar: "/5id.jpg",
+    phone: "01913882177",
     documents: {
       birth: "/generic-birth-certificate.png",
       nid: "/nid-card.jpg",
@@ -93,10 +93,26 @@ const INITIAL_MEMBERS = [
   },
   {
     id: 6,
-    name: "Noor Khan",
-    role: "Cousin",
-    avatar: "/young-woman-smiling.png",
-    phone: "01756789012",
+    name: "MD:Al-Mamun",
+    role: "4th son",
+    avatar: "/6id.png",
+    phone: "01811418680",
+    documents: {
+      birth: null,
+      nid: "/nid-card.jpg",
+      passport: null,
+      chairman: null,
+      school: "/school-certificate.jpg",
+      college: null,
+      work: null,
+    },
+  },
+  {
+    id: 7,
+    name: "Sharmin akter",
+    role: "4st girl",
+    avatar: "/7id.png",
+    phone: "01628677646",
     documents: {
       birth: null,
       nid: "/nid-card.jpg",
