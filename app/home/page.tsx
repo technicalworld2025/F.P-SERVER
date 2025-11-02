@@ -31,7 +31,7 @@ const INITIAL_MEMBERS = [
     id: 2,
     name: "Rohima Begum",
     role: "Mother of family",
-    avatar: "/2id.png",
+    avatar: "/2id.jpg",
     phone: "01895276747",
     documents: {
       birth: null,
@@ -95,7 +95,7 @@ const INITIAL_MEMBERS = [
     id: 6,
     name: "MD:Al-Mamun",
     role: "4th son",
-    avatar: "/6id.png",
+    avatar: "/6id.jpg",
     phone: "01811418680",
     documents: {
       birth: null,
@@ -110,8 +110,8 @@ const INITIAL_MEMBERS = [
   {
     id: 7,
     name: "Sharmin akter",
-    role: "4st girl",
-    avatar: "/7id.png",
+    role: "1st girl",
+    avatar: "/7id.jpg",
     phone: "01628677646",
     documents: {
       birth: null,
